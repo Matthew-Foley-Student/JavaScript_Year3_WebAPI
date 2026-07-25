@@ -1,0 +1,4 @@
+<div *ngFor="let album of albums">
+  <span>{{ album.title }}</span>
+  <button (click)="removeAlbum(album.id)">Delete</button>
+</div>

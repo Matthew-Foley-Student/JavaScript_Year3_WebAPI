@@ -1,0 +1,29 @@
+<button (click)="loadAlbum()">Load Album</button>
+
+<form [formGroup]="albumForm" (ngSubmit)="saveAlbum()">
+  <div>
+    <label>Artist: </label>
+    <input formControlName="artist" />
+  </div>
+  <div>
+    <label>Album: </label>
+    <input formControlName="album" />
+  </div>
+  <div>
+    <label>Description: </label>
+    <input formControlName="description" />
+  </div>
+  <div>
+    <label>Year: </label>
+    <input formControlName="year" type="number" />
+  </div>
+  <div>
+    <label>Image: </label>
+    <input formControlName="image" />
+  </div>
+  <div>
+    <label>Track: </label>
+    <input formControlName="track" />
+  </div>
+  <button type="submit">Save Album</button>
+</form>
