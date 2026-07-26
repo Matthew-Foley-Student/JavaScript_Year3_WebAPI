@@ -1,0 +1,8 @@
+<p>get-notes works!</p>
+<div class="container">
+  <h2>Your Notes</h2>
+  <div class="note" *ngFor="let note of notes">
+    <p>{{ note.note_text }}</p>
+    <small>Saved on: {{ note.created_at | date }}</small>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.verse {
+  margin-bottom: 15px;
+}
+
+.verse-num {
+  font-weight: bold;
+  color: #0056b3;
+}

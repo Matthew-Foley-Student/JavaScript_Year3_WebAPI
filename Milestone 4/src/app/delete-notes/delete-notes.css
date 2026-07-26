@@ -1,0 +1,27 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background: #f8d7da;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 4px;
+}
+
+button {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}

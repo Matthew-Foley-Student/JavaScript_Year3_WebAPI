@@ -1,0 +1,11 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.note {
+  border-left: 4px solid #ffc107;
+  padding: 10px;
+  background: #fff3cd;
+  margin-bottom: 10px;
+}
