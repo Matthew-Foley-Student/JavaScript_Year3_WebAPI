@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 1,
+    "text": "In the beginning God created the heaven and the earth.  "
+  },
+  {
+    "id": 2,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 2,
+    "text": " And the earth was without form, and void; and darkness was on the face of the deep. And the Spirit of God moved on the face of the waters.  "
+  },
+  {
+    "id": 3,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 3,
+    "text": " And God said, Let there be light: and there was light. "
+  },
+  {
+    "id": 4,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And God saw the light, that it was good: and God divided the light from the darkness. "
+  },
+  {
+    "id": 5,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.   ¶ "
+  },
+  {
+    "id": 6,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And God said, Let there be a firmament in the middle of the waters, and let it divide the waters from the waters. "
+  },
+  {
+    "id": 7,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. "
+  },
+  {
+    "id": 8,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 8,
+    "text": "And God called the firmament Heaven. And the evening and the morning were the second day.   ¶ "
+  },
+  {
+    "id": 9,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 9,
+    "text": "And God said, Let the waters under the heaven be gathered together to one place, and let the dry land appear: and it was so. "
+  },
+  {
+    "id": 10,
+    "book_id": 1,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good. "
+  },
+  {
+    "id": 1535,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Reuben, Simeon, Levi, and Judah, "
+  },
+  {
+    "id": 1536,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 3,
+    "text": "Issachar, Zebulun, and Benjamin, "
+  },
+  {
+    "id": "1537",
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 4,
+    "text": "Dan, and Naphtali, Gad, and Asher. "
+  },
+  {
+    "id": 1538,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already. "
+  },
+  {
+    "id": 1539,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And Joseph died, and all his brothers, and all that generation.   ¶ "
+  },
+  {
+    "id": 1540,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.  "
+  },
+  {
+    "id": 1541,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 8,
+    "text": " Now there arose up a new king over Egypt, which knew not Joseph. "
+  },
+  {
+    "id": 1542,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 9,
+    "text": "And he said to his people, Behold, the people of the children of Israel are more and mightier than we: "
+  },
+  {
+    "id": 1543,
+    "book_id": 2,
+    "chapter": 1,
+    "verse": 10,
+    "text": "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falls out any war, they join also to our enemies, and fight against us, and so get them up out of the land. "
+  },
+  {
+    "id": 2747,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 1,
+    "text": "And the LORD called to Moses, and spoke to him out of the tabernacle of the congregation, saying, "
+  },
+  {
+    "id": 2748,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Speak to the children of Israel, and say to them, If any man of you bring an offering to the LORD, you shall bring your offering of the cattle, even of the herd, and of the flock.  "
+  },
+  {
+    "id": 2749,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 3,
+    "text": " If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD. "
+  },
+  {
+    "id": 2750,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And he shall put his hand on the head of the burnt offering; and it shall be accepted for him to make atonement for him. "
+  },
+  {
+    "id": 2751,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And he shall kill the bullock before the LORD: and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about on the altar that is by the door of the tabernacle of the congregation. "
+  },
+  {
+    "id": 2752,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And he shall flay the burnt offering, and cut it into his pieces. "
+  },
+  {
+    "id": 2753,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And the sons of Aaron the priest shall put fire on the altar, and lay the wood in order on the fire: "
+  },
+  {
+    "id": 2754,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 8,
+    "text": "And the priests, Aaron’s sons, shall lay the parts, the head, and the fat, in order on the wood that is on the fire which is on the altar: "
+  },
+  {
+    "id": 2755,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 9,
+    "text": "But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet smell to the LORD.   ¶ "
+  },
+  {
+    "id": 2756,
+    "book_id": 3,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish. "
+  },
+  {
+    "id": 3606,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 1,
+    "text": "And the LORD spoke to Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying, "
+  },
+  {
+    "id": 3607,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Take you the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls; "
+  },
+  {
+    "id": 3608,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 3,
+    "text": "From twenty years old and upward, all that are able to go forth to war in Israel: you and Aaron shall number them by their armies. "
+  },
+  {
+    "id": 3609,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And with you there shall be a man of every tribe; every one head of the house of his fathers.   ¶ "
+  },
+  {
+    "id": 3610,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur. "
+  },
+  {
+    "id": 3611,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 6,
+    "text": "Of Simeon; Shelumiel the son of Zurishaddai. "
+  },
+  {
+    "id": 3612,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 7,
+    "text": "Of Judah; Nahshon the son of Amminadab. "
+  },
+  {
+    "id": 3613,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Of Issachar; Nethaneel the son of Zuar. "
+  },
+  {
+    "id": 3614,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 9,
+    "text": "Of Zebulun; Eliab the son of Helon. "
+  },
+  {
+    "id": 3615,
+    "book_id": 4,
+    "chapter": 1,
+    "verse": 10,
+    "text": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur. "
+  },
+  {
+    "id": 4894,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 1,
+    "text": "These be the words which Moses spoke to all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab. "
+  },
+  {
+    "id": 4895,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 2,
+    "text": "(There are eleven days’ journey from Horeb by the way of mount Seir to Kadeshbarnea.) "
+  },
+  {
+    "id": 4896,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 3,
+    "text": "And it came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spoke to the children of Israel, according to all that the LORD had given him in commandment to them; "
+  },
+  {
+    "id": 4897,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 4,
+    "text": "After he had slain Sihon the king of the Amorites, which dwelled in Heshbon, and Og the king of Bashan, which dwelled at Astaroth in Edrei: "
+  },
+  {
+    "id": 4898,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 5,
+    "text": "On this side Jordan, in the land of Moab, began Moses to declare this law, saying,  "
+  },
+  {
+    "id": 4899,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 6,
+    "text": " The LORD our God spoke to us in Horeb, saying, You have dwelled long enough in this mount: "
+  },
+  {
+    "id": 4900,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 7,
+    "text": "Turn you, and take your journey, and go to the mount of the Amorites, and to all the places near thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and to Lebanon, to the great river, the river Euphrates. "
+  },
+  {
+    "id": 4901,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Behold, I have set the land before you: go in and possess the land which the LORD swore to your fathers, Abraham, Isaac, and Jacob, to give to them and to their seed after them.   ¶ "
+  },
+  {
+    "id": 4902,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 9,
+    "text": "And I spoke to you at that time, saying, I am not able to bear you myself alone: "
+  },
+  {
+    "id": 4903,
+    "book_id": 5,
+    "chapter": 1,
+    "verse": 10,
+    "text": "The LORD your God has multiplied you, and, behold, you are this day as the stars of heaven for multitude. "
+  },
+  {
+    "id": 5853,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spoke to Joshua the son of Nun, Moses’ minister, saying, "
+  },
+  {
+    "id": 5854,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 2,
+    "text": "Moses my servant is dead; now therefore arise, go over this Jordan, you, and all this people, to the land which I do give to them, even to the children of Israel. "
+  },
+  {
+    "id": 5855,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 3,
+    "text": "Every place that the sole of your foot shall tread on, that have I given to you, as I said to Moses. "
+  },
+  {
+    "id": 5856,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 4,
+    "text": "From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your coast. "
+  },
+  {
+    "id": 5857,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 5,
+    "text": "There shall not any man be able to stand before you all the days of your life: as I was with Moses, so I will be with you: I will not fail you, nor forsake you. "
+  },
+  {
+    "id": 5858,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 6,
+    "text": "Be strong and of a good courage: for to this people shall you divide for an inheritance the land, which I swore to their fathers to give them. "
+  },
+  {
+    "id": 5859,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 7,
+    "text": "Only be you strong and very courageous, that you may observe to do according to all the law, which Moses my servant commanded you: turn not from it to the right hand or to the left, that you may prosper wherever you go. "
+  },
+  {
+    "id": 5860,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 8,
+    "text": "This book of the law shall not depart out of your mouth; but you shall meditate therein day and night, that you may observe to do according to all that is written therein: for then you shall make your way prosperous, and then you shall have good success. "
+  },
+  {
+    "id": 5861,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 9,
+    "text": "Have not I commanded you? Be strong and of a good courage; be not afraid, neither be you dismayed: for the LORD your God is with you wherever you go.   ¶ "
+  },
+  {
+    "id": 5862,
+    "book_id": 6,
+    "chapter": 1,
+    "verse": 10,
+    "text": "Then Joshua commanded the officers of the people, saying, "
+  },
+  {
+    "id": 6511,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them? "
+  },
+  {
+    "id": 6512,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 2,
+    "text": "And the LORD said, Judah shall go up: behold, I have delivered the land into his hand. "
+  },
+  {
+    "id": 6513,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 3,
+    "text": "And Judah said to Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with you into your lot. So Simeon went with him. "
+  },
+  {
+    "id": 6514,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men. "
+  },
+  {
+    "id": 6515,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites. "
+  },
+  {
+    "id": 6516,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 6,
+    "text": "But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes. "
+  },
+  {
+    "id": 6517,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And Adonibezek said, Three score and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God has requited me. And they brought him to Jerusalem, and there he died. "
+  },
+  {
+    "id": 6518,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.   ¶ "
+  },
+  {
+    "id": 6519,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 9,
+    "text": "And afterward the children of Judah went down to fight against the Canaanites, that dwelled in the mountain, and in the south, and in the valley. "
+  },
+  {
+    "id": 6520,
+    "book_id": 7,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And Judah went against the Canaanites that dwelled in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai. "
+  },
+  {
+    "id": 7129,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 1,
+    "text": "   Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons. "
+  },
+  {
+    "id": 7130,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 2,
+    "text": "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there. "
+  },
+  {
+    "id": 7131,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 3,
+    "text": "And Elimelech Naomi’s husband died; and she was left, and her two sons. "
+  },
+  {
+    "id": 7132,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years. "
+  },
+  {
+    "id": 7133,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.   ¶ "
+  },
+  {
+    "id": 7134,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 6,
+    "text": "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread. "
+  },
+  {
+    "id": 7135,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 7,
+    "text": "Why she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return to the land of Judah.  "
+  },
+  {
+    "id": 7136,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 8,
+    "text": " And Naomi said to her two daughters in law, Go, return each to her mother’s house: the LORD deal kindly with you, as you have dealt with the dead, and with me. "
+  },
+  {
+    "id": 7137,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 9,
+    "text": "The LORD grant you that you may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept. "
+  },
+  {
+    "id": 7138,
+    "book_id": 8,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And they said to her, Surely we will return with you to your people.  "
+  },
+  {
+    "id": 7214,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite: "
+  },
+  {
+    "id": 7215,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 2,
+    "text": "And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children. "
+  },
+  {
+    "id": 7216,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 3,
+    "text": "And this man went up out of his city yearly to worship and to sacrifice to the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.   ¶ "
+  },
+  {
+    "id": 7217,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions: "
+  },
+  {
+    "id": 7218,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 5,
+    "text": "But to Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb. "
+  },
+  {
+    "id": 7219,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb. "
+  },
+  {
+    "id": 7220,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And as he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat. "
+  },
+  {
+    "id": 7221,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 8,
+    "text": "Then said Elkanah her husband to her, Hannah, why weep you? and why eat you not? and why is your heart grieved? am not I better to you than ten sons?   ¶ "
+  },
+  {
+    "id": 7222,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 9,
+    "text": "So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat on a seat by a post of the temple of the LORD. "
+  },
+  {
+    "id": 7223,
+    "book_id": 9,
+    "chapter": 1,
+    "verse": 10,
+    "text": "And she was in bitterness of soul, and prayed to the LORD, and wept sore. "
+  },
+  {
+    "id": 8024,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 1,
+    "text": "Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag; "
+  },
+  {
+    "id": 8025,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 2,
+    "text": "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth on his head: and so it was, when he came to David, that he fell to the earth, and did obeisance. "
+  },
+  {
+    "id": 8026,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 3,
+    "text": "And David said to him, From where come you? And he said to him, Out of the camp of Israel am I escaped. "
+  },
+  {
+    "id": 8027,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 4,
+    "text": "And David said to him, How went the matter? I pray you, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also. "
+  },
+  {
+    "id": 8028,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 5,
+    "text": "And David said to the young man that told him, How know you that Saul and Jonathan his son be dead? "
+  },
+  {
+    "id": 8029,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 6,
+    "text": "And the young man that told him said, As I happened by chance on mount Gilboa, behold, Saul leaned on his spear; and, see, the chariots and horsemen followed hard after him. "
+  },
+  {
+    "id": 8030,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 7,
+    "text": "And when he looked behind him, he saw me, and called to me. And I answered, Here am I. "
+  },
+  {
+    "id": 8031,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 8,
+    "text": "And he said to me, Who are you? And I answered him, I am an Amalekite. "
+  },
+  {
+    "id": 8032,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 9,
+    "text": "He said to me again, Stand, I pray you, on me, and slay me: for anguish is come on me, because my life is yet whole in me. "
+  },
+  {
+    "id": 8033,
+    "book_id": 10,
+    "chapter": 1,
+    "verse": 10,
+    "text": "So I stood on him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was on his head, and the bracelet that was on his arm, and have brought them here to my lord.  "
+  }
+]
